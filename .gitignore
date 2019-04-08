@@ -4,6 +4,8 @@
 *.dll
 *.so
 *.dylib
+fritz2influx
+config.yaml
 
 # Test binary, build with `go test -c`
 *.test
